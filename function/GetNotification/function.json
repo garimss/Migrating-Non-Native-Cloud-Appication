@@ -1,0 +1,12 @@
+{
+    "scriptFile": "_init_.py",
+    "bindings": [
+      {
+        "name": "msg",
+        "type": "serviceBusTrigger",
+        "direction": "in",
+        "queueName": "queue1sb",
+        "connection": "AzureSBConnection"
+      }
+    ]
+  }
