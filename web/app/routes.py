@@ -64,6 +64,7 @@ def notification():
 
         try:
             db.session.add(notification)
+            notification.completed_date = datetime.utcnow()
             db.session.commit()
             '''
             ##################################################

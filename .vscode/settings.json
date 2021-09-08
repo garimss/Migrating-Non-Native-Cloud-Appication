@@ -36,6 +36,6 @@
         "venv.bak{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/cc8cec73-2c6f-4361-ba57-6ff8d8faa893/resourceGroups/Coud-Nanodegree/providers/Microsoft.Web/sites/techconference",
-    "appService.deploySubpath": "web"
+    "appService.deploySubpath": "web",
+    "appService.defaultWebAppToDeploy": "/subscriptions/e37bc2f0-e75a-4ca9-8a8c-b82ced41eab5/resourceGroups/Coud-Nanodegree/providers/Microsoft.Web/sites/techconference"
 }
